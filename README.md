@@ -10,3 +10,6 @@ This repository is a beginner-friendly Python course designed to make learning s
 
 This project is also part of my own learning journey and will grow daily.
 
+## Progress Log
+
+- Project initialized
