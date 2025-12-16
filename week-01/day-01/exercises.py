@@ -7,11 +7,6 @@ Type one line only:
 print("Python is working")
 Run it.
 
-Checkpoint question:
-Did the text print in the terminal without errors?
-(Yes or no. If no, that’s the gap.)
-
-
 Exercise 2: Input → output loop (3 minutes)
 
 Goal: Cement how input() actually behaves.
